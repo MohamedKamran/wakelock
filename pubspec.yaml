@@ -21,7 +21,7 @@ dependencies:
   wakelock_windows:
     git:
       url: https://github.com/MohamedKamran/wakelock_windows.git
-      ref: master
+      ref: main
 
 dev_dependencies:
   flutter_test:
